@@ -13,8 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/LeandroMCarv/api-rest-node-express/issues"
   },
-  "homepage": "https://github.com/LeandroMCarv/api-rest-node-express#readme"
+  "homepage": "https://github.com/LeandroMCarv/api-rest-node-express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
