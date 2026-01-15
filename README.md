@@ -18,7 +18,9 @@ O projeto demonstra os principais métodos HTTP (`GET`, `POST`, `PUT`, `PATCH`, 
 api-rest-node-express/
 
 ├─ api.js              # Arquivo principal da API
+
 ├─ package.json        # Dependências e scripts do projeto
+
 └─ package-lock.json   # Controle de versões das dependências
 
 ---
