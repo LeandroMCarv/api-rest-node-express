@@ -1,0 +1,20 @@
+{
+  "name": "api-rest-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMCarv/api-rest-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMCarv/api-rest-node-express/issues"
+  },
+  "homepage": "https://github.com/LeandroMCarv/api-rest-node-express#readme"
+}
